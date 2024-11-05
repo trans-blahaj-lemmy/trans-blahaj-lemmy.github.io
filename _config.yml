@@ -1,0 +1,12 @@
+title: trans@blahaj
+description: A collection of resources for the trans@lemmy.blahaj.zone community
+theme: just-the-docs
+
+url: https://trans-blahaj-zone.github.io
+
+nav_external_links:
+  - title: /c/trans
+    url: https://lemmy.blahaj.zone/c/trans
+
+aux_links:
+  /c/trans: https://lemmy.blahaj.zone/c/trans
