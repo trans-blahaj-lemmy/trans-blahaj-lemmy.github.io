@@ -2,7 +2,7 @@
 title: Finding a Doctor
 layout: page
 parent: Starter Guide
-nav_order: 3
+nav_order: 2
 ---
 # Finding a Doctor
 {: .no_toc }
