@@ -8,5 +8,9 @@ nav_external_links:
   - title: /c/trans
     url: https://lemmy.blahaj.zone/c/trans
 
+callouts:
+  crisis:
+    color: red
+
 aux_links:
   /c/trans: https://lemmy.blahaj.zone/c/trans
