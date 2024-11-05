@@ -11,6 +11,9 @@ nav_external_links:
 callouts:
   crisis:
     color: red
+  more:
+    title: Further Reading
+    color: grey-dk
 
 aux_links:
   /c/trans: https://lemmy.blahaj.zone/c/trans
