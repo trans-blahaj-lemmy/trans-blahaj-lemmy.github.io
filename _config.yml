@@ -11,6 +11,8 @@ nav_external_links:
 callouts:
   crisis:
     color: red
+  important:
+    color: yellow
   more:
     title: Further Reading
     color: grey-dk
