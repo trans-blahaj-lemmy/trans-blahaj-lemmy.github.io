@@ -16,7 +16,7 @@ nav_order: 1000
 {:toc}
 </details>
 
-{% include needs_addition.md %}
+{% include callouts/needs_addition.md %}
 
 Binding, commonly used within transgender and gender-nonconforming communities, is the process of compressing the chest to create a flatter appearance. It provides a way to affirm one's gender identity and alleviate dysphoria. While binding can be highly beneficial for many, it’s crucial to practice it safely to avoid adverse health effects.
 

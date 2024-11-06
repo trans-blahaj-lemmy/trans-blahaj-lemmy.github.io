@@ -5,7 +5,7 @@ nav_order: 6000
 ---
 # Local Community Directory
 
-{% include needs_addition.md %}
+{% include callouts/needs_addition.md %}
 
 {: .more }
 {% include trans_resources_message.md %}

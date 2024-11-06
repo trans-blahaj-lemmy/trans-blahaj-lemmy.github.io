@@ -5,9 +5,9 @@ nav_order: 5000
 ---
 # Mutual Aid
 
-{% include_relative _callouts/crisis.md %}
+{% include callouts/crisis.md %}
 
-{% include needs_addition.md %}
+{% include callouts/needs_addition.md %}
 
 Reach out for support or mutual aid if you need it. This community is available to all who need to discuss issues, get something off their chest, or find support. /c/trans allow mutual aid requests with prior approval from the moderation team, so reach out to us. 
 
