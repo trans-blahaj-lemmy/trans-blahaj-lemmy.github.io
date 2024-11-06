@@ -1,7 +1,7 @@
 ---
 title: Starter Guide
 layout: page
-nav_order: 4
+nav_order: 4000
 ---
 # Starter Guide
 Welcome to the Transition Starter Guide, a comprehensive resource to help you navigate the early stages of transitioning. This guide is designed to provide clear, reliable information, for people beginning their transition or questioning their gender.

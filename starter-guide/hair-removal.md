@@ -2,7 +2,7 @@
 title: Hair Removal
 layout: page
 parent: Starter Guide
-nav_order: 5
+nav_order: 5000
 ---
 # Hair Removal/Covering
 {: .no_toc }

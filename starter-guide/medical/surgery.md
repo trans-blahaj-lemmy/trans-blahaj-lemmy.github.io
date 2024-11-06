@@ -2,7 +2,7 @@
 title: Surgery
 layout: page
 parent: Medical
-nav_order: 2
+nav_order: 2000
 ---
 # Surgery
 {: .no_toc }

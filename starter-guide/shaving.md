@@ -2,7 +2,7 @@
 title: Shaving
 layout: page
 parent: Starter Guide
-nav_order: 6
+nav_order: 6000
 ---
 # Shaving
 {: .no_toc }

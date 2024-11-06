@@ -2,7 +2,7 @@
 title: Am I Trans?
 layout: page
 parent: Starter Guide
-nav_order: 1
+nav_order: 1000
 ---
 # Am I Trans?
 Determining one's gender identity is a deeply personal journey, one that may or may not include experiences of gender dysphoria. While dysphoria — distress caused by a mismatch between gender identity and assigned sex—is commonly discussed, it is not necessary to experience gender dysphoria to be trans. Many people only experience “gender euphoria” instead, a positive, affirming feeling that arises when presenting or being perceived as one's true gender. This sense of joy, comfort, or rightness when engaging in certain expressions or pronouns can be a powerful signal of one's authentic self.

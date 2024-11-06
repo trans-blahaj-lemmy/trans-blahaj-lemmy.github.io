@@ -2,7 +2,7 @@
 title: Medical
 layout: page
 parent: Starter Guide
-nav_order: 3
+nav_order: 3000
 ---
 # Medical
 Transitioning medically does not make someone more "valid" as a trans person, and /c/trans has no space for people who belive this - commonly referred to as "transmedicalists". That said, most trans find the effects of medically transitioning - or even the act of undertaking them - an incredibly affirming and important part of their transition.

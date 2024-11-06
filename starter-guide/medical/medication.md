@@ -2,7 +2,7 @@
 title: Medication
 layout: page
 parent: Medical
-nav_order: 1
+nav_order: 1000
 ---
 # Medication
 {: .no_toc }
