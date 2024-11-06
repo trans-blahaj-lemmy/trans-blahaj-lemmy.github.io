@@ -17,7 +17,7 @@ Reach out for support or mutual aid if you need it. This community is available 
 In addition, the following communities and resources are available for mutual aid or support:
 
 * [Blahaj has a community Matrix](https://lemmy.blahaj.zone/post/15256176) free for anyone on lemmy to join.
-* The [Trans Housing Network Chat](https://matrix.to/#/#thn-chat:matrix.org) helps connect unhoused people, or people in unsafe housing, to those able to provide temporary shelter
+* The Trans Housing Network Chat helps connect unhoused people, or people in unsafe housing, to those able to provide temporary shelter. Contact [xilliah@beehaw.org](https://lemmy.blahaj.zone/u/xilliah@beehaw.org) to join.
 * [TrevorSpace](https://www.trevorspace.org/) offers online peer support globally
 
 ## United States
