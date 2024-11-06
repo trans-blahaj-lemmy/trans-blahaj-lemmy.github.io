@@ -1,8 +1,8 @@
 ---
 title: Hair Removal
 layout: page
-parent: Starter Guide
-nav_order: 5000
+parent: Feminine
+nav_order: 1000
 ---
 # Hair Removal/Covering
 {: .no_toc }

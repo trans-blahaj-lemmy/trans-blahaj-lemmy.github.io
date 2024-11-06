@@ -20,6 +20,9 @@ callouts:
   more:
     title: Further Reading
     color: grey-dk
+  meta:
+    title: Meta
+    color: grey-dk
 
 aux_links:
   /c/trans: https://lemmy.blahaj.zone/c/trans
