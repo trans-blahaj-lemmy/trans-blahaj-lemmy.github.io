@@ -43,7 +43,7 @@ An orchiectomy, or "orchy", is a procedure to remove the testes from a male body
 > [TransHub/Orchiectomy](https://www.transhub.org.au/orchiectomy)
 
 ### Vocal Surgery
-Since *feminizing hormones do not alter a person's voice*, people who experienced a male puberty who want a more typically "feminine" voice must do so either behaviourally or surgically. Vocal surgery refers to a range of techniques with a range of complexity. Unlike behavioural changes, most techniques result in a permanent loss of vocal range.
+Since *feminizing hormones do not alter a person's voice*, people who experienced a male puberty who want a more typically "feminine" voice must do so either [behaviourally](/starter-guide/feminine/voice-training.html) or surgically. Vocal surgery refers to a range of techniques with a range of complexity. Unlike behavioural changes, most techniques result in a permanent loss of vocal range.
 
 {: .more }
 > [TransHub/Vocal Surgery](https://www.transhub.org.au/vocal-surgery)
