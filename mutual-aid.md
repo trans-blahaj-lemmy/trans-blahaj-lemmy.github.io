@@ -22,4 +22,5 @@ In addition, the following communities and resources are available for mutual ai
 
 ## United States
 * [Mutual Aid Hub](https://www.mutualaidhub.org/) has a list of mutual aid resources across the United States
+* The [Trans Resistance Network](https://transresistancenetwork.wordpress.com/) helps coordinate resources for relocation, alternative systems of gender affirming care, mutual aid, and community defense.
 
