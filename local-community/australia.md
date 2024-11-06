@@ -1,7 +1,7 @@
 ---
 title: Australia
 layout: page
-parent: Local Community
+parent: Local Community Directory
 ---
 {% include page_header.md %}
 
@@ -26,3 +26,5 @@ parent: Local Community
 
 ### Melbourne
 * [The Shed](https://www.ftmshed.com.au/meetings-and-events) is a Melbourne based social and support group for transmasculine, non-binary and gender questioning people.
+
+### Queensland

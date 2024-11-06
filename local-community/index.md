@@ -1,9 +1,9 @@
 ---
-title: Local Community
+title: Local Community Directory
 layout: page
 nav_order: 6000
 ---
-# Local Community
+# Local Community Directory
 
 {% include needs_addition.md %}
 
