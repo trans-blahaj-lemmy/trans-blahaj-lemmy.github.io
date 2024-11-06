@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1000
 ---
-# Trans@Blahaj
+# trans@blahaj
 
 Welcome to trans@blahaj, a growing resource hub dedicated to supporting the trans@lemmy.blahaj.zone community. Here, you'll find guides and resources tailored to assist with various stages of transition, along with a developing local community directory to help connect locally and support one another.
 
