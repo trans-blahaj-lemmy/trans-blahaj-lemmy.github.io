@@ -9,6 +9,8 @@ parent: Local Community Directory
 
 {: .more }
 > [PsychologyToday](https://www.psychologytoday.com/us/groups?search=) keeps a basic directory of transgender support groups for each state.
+>
+> {% include trans_resources_message.md %}
 
 ## Nationwide
 * [Stand with Trans](https://standwithtrans.org/support-groups/) offers holds virtual support groups for the United States.

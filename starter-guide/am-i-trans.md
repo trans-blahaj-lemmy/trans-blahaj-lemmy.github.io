@@ -16,6 +16,8 @@ While the internet offers various quizzes claiming to determine if someone is tr
 It is also essential to acknowledge that discovering one is not trans is entirely okay. Gender identity exploration is unique, and it's valid to conclude that one's assigned gender feels right. This exploration is about understanding oneself more deeply, regardless of the outcome.
 
 {: .more }
+> [The Gender Dysphoria Bible](https://genderdysphoria.fyi/en): useful info on various aspects of gender dysphoria
+>
 > [TransHub: Am I Trans Enough?](https://www.transhub.org.au/am-i-trans-enough)
 >
 > [BelongTo: How do I know if I am Trans](https://www.belongto.org/support-for-me/advice/how-do-i-know-if-am-i-trans/)
