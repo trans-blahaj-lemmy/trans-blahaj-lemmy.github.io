@@ -18,6 +18,11 @@ nav_order: 2500
 
 Coming out as trans is a personal decision and a significant step in living authentically. However, it's important to remember that disclosure is a privilege for others, not a right. No one is "owed" your story or your identity; sharing this part of yourself should always be on your terms and in the environments where you feel safe and respected. This guide offers advice for navigating coming out to friends, family, and workplaces—if and when you choose to do so.
 
+{: .more }
+> [TransHub/Coming Out](https://www.transhub.org.au/coming-out)
+>
+> [Planned Parenthood/Coming out Trans](https://www.plannedparenthood.org/learn/gender-identity/transgender/coming-out-trans)
+
 ## Friends
 When coming out to friends, focus on building a supportive environment. Begin by selecting friends who are likely to be understanding, as their initial responses can set the tone for future conversations. Consider a one-on-one setting to allow for open, honest dialogue. Share what being trans means to you and how you'd like them to address you in terms of name and pronouns. Patience and clarity can help friends adjust, so be prepared to address questions as they arise, but also set boundaries where needed.
 
@@ -34,8 +39,3 @@ Be clear about your needs, such as using the correct name and pronouns, and allo
 Like coming out elsewhere, coming out in the workplace can be difficult and stressful. You should consider whether your workplace would be supportive, and potentially prepare to find other places to work in the event you face significant discrimination. Start by reviewing your organization's policies on gender identity and non-discrimination. If your workplace has an HR department or diversity advocate, consider reaching out to them for guidance on how to proceed. In addition, many countries protect against workplace discrimination on the basis of being transgender. Familiarize yourself with local laws and know your rights.
 
 When informing your team, be concise and professional. Specify your new name and pronouns and outline any adjustments needed for your role. For example, if transitioning affects work logistics (such as ID badges or directory listings), coordinate these changes through HR. Monitor your colleagues' responses, and if you experience discrimination, report it following company protocol. Protect your professional identity by establishing clear boundaries and advocating for yourself within the company framework.
-
-{: .more }
-> [TransHub/Coming Out](https://www.transhub.org.au/coming-out)
->
-> [Planned Parenthood/Coming out Trans](https://www.plannedparenthood.org/learn/gender-identity/transgender/coming-out-trans)
