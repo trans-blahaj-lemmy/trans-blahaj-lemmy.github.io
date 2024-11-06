@@ -7,6 +7,8 @@ nav_order: 3000
 
 {% include_relative _callouts/crisis.md %}
 
+{% include needs_addition.md %}
+
 Reach out for support or mutual aid if you need it. This community is available to all who need to discuss issues, get something off their chest, or find support. /c/trans allow mutual aid requests with prior approval from the moderation team, so reach out to us. 
 
 The best mutual aid and support is local. We encourage everyone to research trans advocacy groups around them, local queer facebook pages, and keep connected with their community.
