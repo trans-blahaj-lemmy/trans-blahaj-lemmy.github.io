@@ -7,6 +7,9 @@ parent: Local Community Directory
 
 {% include needs_addition.md %}
 
+{: .more }
+> [trans.au](https://trans.au/directory/) provides a comprehensive directory of social groups, advocacy organisations, and medical services nationwide.
+
 ## Nationwide
 * [QLife](https://qlife.org.au/) offers peer support everyday from 3PM to Midnight at [1800 18 4527](tel:1800184527).
 
