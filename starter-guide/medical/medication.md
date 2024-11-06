@@ -1,8 +1,8 @@
 ---
 title: Medication
 layout: page
-parent: Starter Guide
-nav_order: 3
+parent: Medical
+nav_order: 1
 ---
 # Medication
 {: .no_toc }
@@ -18,8 +18,6 @@ You should consult a doctor before beginning any kind of hormone regimen. This p
 1. TOC
 {:toc}
 </details>
-
-Transitioning medically does not make someone more "valid" as a trans person, and /c/trans has no space for people who belive this - commonly referred to as "transmedicalists". That said, most trans find the effects of hormones - or even the act of taking them - an incredibly affirming and important part of their transition.
 
 ## Feminizing Hormones
 A feminizing hormone regimen is typically made up of two parts, a **testosterone blocker** and an **estrogen supplement**. Typically most results will be achieved within three years, though many report experiencing changes for a longer period of time. Common results include the thinning (though not the total removal) of facial and body hair, breast growth, and fat redistribution on the face and body. Hormones do not affect voice.
