@@ -2,6 +2,8 @@ title: trans@blahaj
 description: A collection of resources for the trans@lemmy.blahaj.zone community
 theme: just-the-docs
 
+favicon_ico: "/assets/favicon/favicon.ico"
+
 url: https://trans-blahaj-zone.github.io
 
 nav_external_links:
