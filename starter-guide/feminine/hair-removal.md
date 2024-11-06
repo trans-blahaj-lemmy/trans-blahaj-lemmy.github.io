@@ -4,7 +4,7 @@ layout: page
 parent: Feminine
 nav_order: 1000
 ---
-# Hair Removal/Covering
+# Hair Removal
 {: .no_toc }
 
 <details open markdown="block">

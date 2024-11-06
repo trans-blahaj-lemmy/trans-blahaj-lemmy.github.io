@@ -45,5 +45,5 @@ The following safety guide is taken from the [TransHub website](https://www.tran
 * Summer time binding. Things can get really hot under there, causing you to overheat and possibly cause skin irritation. When the weather gets warmer it’s extra important to take care of yourself. There are ways to cool off, including baby powder, wearing a t-shirt underneath or just taking longer breaks. The swim binder could come in handy here!
 * Bodies change. You may be growing, on testosterone and changing shape, or changing in other ways. So keep up with your body and make sure you change binder size when you need to.
 
-{. more }
+{: .more }
 > [TransHub/Binding](https://www.transhub.org.au/binding)
