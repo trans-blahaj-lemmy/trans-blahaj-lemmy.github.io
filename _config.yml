@@ -13,6 +13,10 @@ callouts:
     color: red
   important:
     color: yellow
+  warning:
+    color: yellow
+  important-warning:
+    color: red
   more:
     title: Further Reading
     color: grey-dk

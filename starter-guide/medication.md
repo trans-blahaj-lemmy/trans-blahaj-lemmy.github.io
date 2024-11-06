@@ -22,7 +22,7 @@ You should consult a doctor before beginning any kind of hormone regimen. This p
 Transitioning medically does not make someone more "valid" as a trans person, and /c/trans has no space for people who belive this - commonly referred to as "transmedicalists". That said, most trans find the effects of hormones - or even the act of taking them - an incredibly affirming and important part of their transition.
 
 ## Feminizing Hormones
-A feminizing hormone regimen is typically made up of two parts, a **testosterone blocker** and an **estrogen supplement**.
+A feminizing hormone regimen is typically made up of two parts, a **testosterone blocker** and an **estrogen supplement**. Typically most results will be achieved within three years, though many report experiencing changes for a longer period of time. Common results include the thinning (though not the total removal) of facial and body hair, breast growth, and fat redistribution on the face and body. Hormones do not affect voice.
 
 ### Estrogen Regimen
 Estrogen is normally taken in one of the following forms:
@@ -44,7 +44,7 @@ Progesterone is an optional part of a feminizing hormone regimen, often describe
 > [TransHub/Hormones - Feminizing](https://www.transhub.org.au/hormones-feminising)
 
 ## Masculinizing Hormones
-Unlike feminizing hormones, testosterone is not generally combined with any form of estrogen blocker.
+Unlike feminizing hormones, testosterone is not generally combined with any form of estrogen blocker. Most results are typically achieved within 3-5 years. Common results include greater muscle mass, redistribution of fat on the face and body, the development of masculine facial hair and increase in body hair generally, as well as the deepening of the voice. Breast size may reduce, but is unlikely to disappear.
 
 ### Testosterone Regimen
 Testosterone is normally taken in one of the following forms:
