@@ -3,7 +3,7 @@ title: Mutual Aid
 layout: page
 nav_order: 5000
 ---
-# Mutual Aid
+{% include page_header.md %}
 
 {% include callouts/crisis.md %}
 
