@@ -16,7 +16,7 @@ If you're creating a new page, including the following text above any content yo
 ---
 title: <title>
 layout: page
-parent: <optional, online include this line if your page is the child of a category. If you include this, use the title of the category>
+parent: <optional, the title of the parent category>
 nav_order: <This field sets the position of the page in the navigation menu. some categories do not have a nav_order, do not use this field if that is the case.>
 ---
 {% include page_header.md %}
