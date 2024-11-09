@@ -19,6 +19,9 @@ You should consult a doctor before beginning any kind of hormone regimen. This p
 {:toc}
 </details>
 
+{: .more }
+> If you are unable to find a doctor, [DIY HRT](https://diyhrt.wiki/) is a widely trusted source of information regarding HRT regimens.
+
 ## Feminizing Hormones
 A feminizing hormone regimen is typically made up of two parts, a **testosterone blocker** and an **estrogen supplement**. Typically most results will be achieved within three years, though many report experiencing changes for a longer period of time. Common results include the thinning (though not the total removal) of facial and body hair, breast growth, and fat redistribution on the face and body. Hormones do not affect voice.
 
