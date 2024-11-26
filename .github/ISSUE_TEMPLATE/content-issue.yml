@@ -1,0 +1,29 @@
+name: "Content Issue"
+description: Something wrong with our content? Report it here
+title: "Content Issue: <title>"
+labels: ["bug", "content"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Relevant Page(s)
+      description: Which pages does the issue relate to? Link to them here.
+      placeholder: https://trans.blahaj.community...
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Please enter a description of the issue
+      placeholder: Short description of your incident...
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: "Correction"
+      description: Please enter how you wish to see the issue corrected, or write a corrected version yourself.
+      placeholder: Short description of how to correct the issue...
+    validations:
+      required: false
