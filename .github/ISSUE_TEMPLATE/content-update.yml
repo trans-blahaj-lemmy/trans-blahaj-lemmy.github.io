@@ -1,0 +1,28 @@
+name: "Content Update"
+description: Suggest an update to a page
+title: "Content Update: <title>"
+labels: ["content", "enhancement"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Relevant Page(s)
+      description: Which pages does the issue relate to? Link to them here.
+      placeholder: https://trans.blahaj.community...
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Please enter a description of your update
+      placeholder: Short description of your update...
+    validations:
+      required: false
+  - type: textarea
+    id: update
+    attributes:
+      label: "Update"
+      description: Please enter the updated content
+    validations:
+      required: true
