@@ -1,7 +1,7 @@
 ---
 title: Service Directories
 layout: page
-parent: Misc Resources
+parent: Resources
 ---
 {% include page_header.md %}
 
