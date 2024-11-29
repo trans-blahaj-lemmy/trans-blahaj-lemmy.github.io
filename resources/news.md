@@ -1,7 +1,7 @@
 ---
 title: News
 layout: page
-parent: Misc Resources
+parent: Resources
 ---
 # {{ page.title }}
 
