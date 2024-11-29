@@ -27,7 +27,7 @@ A feminizing hormone regimen is typically made up of two parts, a **testosterone
 
 ### Estrogen Regimen
 Estrogen is normally taken in one of the following forms:
-* **Pills** - Taken either orally or sublingually - meaning it dissolves beneath the tongue or in the cheek. There is some evidence that suggests that oral forms of estrogen increase cardiovascular risk ([Source](https://www.mja.com.au/journal/2019/211/3/position-statement-hormonal-management-adult-transgender-and-gender-diverse)). Despite this it is common to start with this form of estrogen.
+* **Pills** - Taken either orally or sublingually - meaning it dissolves beneath the tongue or in the cheek. There is some evidence that suggests that some, but not all, oral forms of estrogen at high doses increase cardiovascular risk ([source](https://www.mja.com.au/journal/2019/211/3/position-statement-hormonal-management-adult-transgender-and-gender-diverse)). If you are unable to find a doctor experienced in trans healthcare, ensure you and your doctor are educated on this risk.
 * **Patches** - Placed on the skin and changed occasionally.
 * **Gel** - A usually alcohol based solution of estrogen, applied to the skin daily. Hands must be washed after application and care taken not to transfer any of the gel to others.
 * **Injections** - Administered through intramuscular injection - typically either weekly or fortnightly. Common in the United States and Canada, but rarely prescribed in the United Kingdom and Australia.
