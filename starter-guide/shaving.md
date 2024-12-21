@@ -44,9 +44,14 @@ Prioritize harm minimization. While we recommend this technique for trans-femmes
 Safety razors, which consist of a handle and a repleceable bare double edge blade, offers the closest shave while costing significantly less than their cartridge counterpart. If you can put in the practice, they are **the best option for trans-femmes**.
 
 ### Technique
-Wet the skin and apply a high-quality shaving cream or gel. Shave gently, with the razor at a 30 degree angle from the skin, in the direction of hair growth. Avoid pressing down, as the weight of the razor provides sufficient pressure. Rinse after each pass.
+Wet the skin and apply a high-quality shaving cream or gel. Shave gently, with the razor at a 30 degree angle from the skin, in the direction of hair growth. Avoid pressing down, as the weight of the razor provides sufficient pressure. Rinse after each pass. Shaving against the grain of the skin is liable to cause razor burn.
 
 It can take a lot of practice to master this shaving technique, especially if you have more feminine skin. Start slowly and always watching in the mirror.
+
+Following a video tutorial may be helpful for beginners, some are listed below:
+
+* [Tutorial: Learn How To Shave With a Safety Razor](https://www.youtube.com/watch?v=ps88RU_BXlA)
+* [Shaving With A Safety Razor \| Ladies Guide](https://www.youtube.com/watch?v=2zXqo4b3pk4)
 
 ### Cost
 An entry-level safety razor costs around USD$30, with more premium models reaching up to $80. Razor blades are sold in packs of 10-100 for USD$10-USD$20, making them cost-effective over time. [Astra Double Edge Blades](https://www.amazon.com.au/gp/product/B001QY8QXM) are a popular choice for blades. Any handle with adjustable blade exposure levels will be a good option to start with.
