@@ -7,8 +7,7 @@ nav_order: 1000
 # Medication
 {: .no_toc }
 
-{: .important }
-You should consult a doctor before beginning any kind of hormone regimen. This page does not provide specific medical advice.
+{% include callouts/medical.md %}
 
 <details open markdown="block">
   <summary>

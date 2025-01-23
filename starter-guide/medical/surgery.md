@@ -7,8 +7,7 @@ nav_order: 2000
 # Surgery
 {: .no_toc }
 
-{: .important }
-This page does not provide specific medical advice.
+{% include callouts/medical.md %}
 
 <details open markdown="block">
   <summary>
