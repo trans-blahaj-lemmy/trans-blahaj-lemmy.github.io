@@ -20,4 +20,5 @@ parent: Resources
 # DIY -->
 
 * [DIYHRT.wiki is a generally trusted source of information](https://diyhrt.wiki/)
-* [DIY HRT: Everything I Can Legally Tell You \| Lily Alexandre (YouTube)](https://www.youtube.com/watch?v=o2Ggwe2j0Gc)
+* [DIY HRT: Everything I Can Legally Tell You \| Lily Alexandre - YouTube](https://www.youtube.com/watch?v=o2Ggwe2j0Gc)
+* [HRT Testing - Trans Harm Reduction. Lab reports and safety of various DIY HRT supplies.](https://transharmreduction.org/hrt-testing)
